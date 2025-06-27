@@ -1,0 +1,5 @@
+ESTQA ansible_host=10.150.236.41
+PDVQA ansible_host=10.150.236.111
+PRVQA ansible_host=10.200.6.29
+splojaqa21 ansible_host=10.200.6.21
+PDVQAFISIA ansible_host=10.64.6.15
